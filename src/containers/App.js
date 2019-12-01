@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
+import ErrorBoundary from '../components/ErrorBoundary';
 
 class App extends Component {
   constructor() {
@@ -31,7 +31,9 @@ onSearchChangeFunc = (event) => {
         <h1>RoboFriends</h1>
         <SearchBox searchChangeAsProp={this.onSearchChangeFunc}/>
         <Scroll>
-          <CardList robotsAsProp={filteredRobots} />
+          <ErrorBoundary>
+            <CardList robotsAsProp={filteredRobots} />
+          </ErrorBoundary>          
         </Scroll>        
       </div>
     );
