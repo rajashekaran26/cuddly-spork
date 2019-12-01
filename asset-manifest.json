@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cuddly-spork/static/css/main.d9b03cf9.chunk.css",
+    "main.js": "/cuddly-spork/static/js/main.80f25619.chunk.js",
+    "main.js.map": "/cuddly-spork/static/js/main.80f25619.chunk.js.map",
+    "runtime-main.js": "/cuddly-spork/static/js/runtime-main.40ec8283.js",
+    "runtime-main.js.map": "/cuddly-spork/static/js/runtime-main.40ec8283.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/cuddly-spork/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.49b130ef.chunk.js": "/cuddly-spork/static/js/2.49b130ef.chunk.js",
+    "static/js/2.49b130ef.chunk.js.map": "/cuddly-spork/static/js/2.49b130ef.chunk.js.map",
+    "index.html": "/cuddly-spork/index.html",
+    "precache-manifest.53853ab391810f383e50eaf0073ba956.js": "/cuddly-spork/precache-manifest.53853ab391810f383e50eaf0073ba956.js",
+    "service-worker.js": "/cuddly-spork/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/cuddly-spork/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.d9b03cf9.chunk.css.map": "/cuddly-spork/static/css/main.d9b03cf9.chunk.css.map",
+    "static/media/App.css": "/cuddly-spork/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ec8283.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.49b130ef.chunk.js",
+    "static/css/main.d9b03cf9.chunk.css",
+    "static/js/main.80f25619.chunk.js"
+  ]
+}
